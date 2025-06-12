@@ -17,19 +17,19 @@ Each page must have:
 
 ---
 
-## 📄 HTML Page Details
+HTML Page Details
 
 | Page     | File Name       | Header Links                     | Footer                       |
 |----------|------------------|----------------------------------|-------------------------------|
-| Home     | `index.html`     | Academics, Personal, Contact, Resume | Name, Batch, ©, Year       |
-| Academics| `academics.html` | Home, Personal, Contact, Resume     | Name, Batch, ©, Year       |
-| Personal | `personal.html`  | Home, Academics, Contact, Resume   | Name, Batch, ©, Year       |
-| Contact  | `contact.html`   | Home, Academics, Personal, Resume | Name, Batch, ©, Year       |
-| Resume   | `resume.html`    | Home, Academics, Personal, Contact| Name, Batch, ©, Year       |
+| Home     | `index.html`     | Academics, Personal, Contact, Resume | Name, Batch, Copyright, Year       |
+| Academics| `academics.html` | Home, Personal, Contact, Resume     | Name, Batch, Copyright, Year       |
+| Personal | `personal.html`  | Home, Academics, Contact, Resume   | Name, Batch, Copyright, Year       |
+| Contact  | `contact.html`   | Home, Academics, Personal, Resume | Name, Batch, Copyright, Year       |
+| Resume   | `resume.html`    | Home, Academics, Personal, Contact| Name, Batch, Copyright, Year       |
 
 ---
 
-## 📊 Allowed Tag Usage Per Page
+Allowed Tag Usage Per Page
 
 | Page     | div | h1 | h5 | a  | p | table | tr | th | td | br | img | address |
 |----------|-----|----|----|----|---|--------|----|----|----|----|-----|---------|
@@ -41,7 +41,7 @@ Each page must have:
 
 ---
 
-## 📌 Page-Specific Requirements
+Page-Specific Requirements
 
 ### 1. **Home Page (`index.html`)**
 - Heading: `Student data`
@@ -64,23 +64,4 @@ Each page must have:
 
 ### 5. **Resume Page (`resume.html`)**
 - Provide a link: `"download resume"` which opens your CV
-
----
-
-## 📎 Notes
-
-- Do not use real address or email for the contact page.
-- Follow tag count and naming rules strictly.
-- All images and files should be properly linked within the root directory.
-
----
-
-## 🌐 External Resources
-
-- Online Degree Website: [https://www.onlinedegree.iitm.ac.in](https://www.onlinedegree.iitm.ac.in)
-- Personal Page Images (refer to assignment source)
-
----
-
-© [Your Name], [Your Batch], [Year]
 
